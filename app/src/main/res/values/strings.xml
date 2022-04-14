@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="search_string">Search</string>
+    <string name="search_news_string">Search News</string>
+    <string name="right_arrow">right arrow</string>
+    <string name="search_more">Search More</string>
+</resources>
